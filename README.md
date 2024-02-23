@@ -11,3 +11,5 @@
 5. Make two separate commits, one for step 3 and one for step 4.
 6. Push your changes to your branch.
 7. Submit a pull request to me to merge your branch into the main.
+
+Submit a screenshot of however far you get on this list onto Gradescope.
