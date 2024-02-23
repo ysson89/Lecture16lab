@@ -4,6 +4,9 @@
 ## Lecture 16 Lab
 
 ### Instructions
+
+Submit a screenshot of however far you get on this list onto Gradescope.
+
 1. Fork this repository to your own Github account.
 2. Then clone it locally.
 3. Edit a line in the R file in the repository.
@@ -12,4 +15,4 @@
 6. Push your changes to your branch.
 7. Submit a pull request to me to merge your branch into the main.
 
-Submit a screenshot of however far you get on this list onto Gradescope.
+
